@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Summer of Bitcoin**
 
-- 💬 Ask me about **nextjs, node js and Blockchain **
+- 💬 Ask me about **Nextjs, Node js and Blockchain**
 
 - 📫 How to reach me **soniaviral14@gmail.com**
 
